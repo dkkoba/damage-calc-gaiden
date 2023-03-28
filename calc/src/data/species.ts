@@ -1503,7 +1503,7 @@ const ADV_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
   Charmeleon: {abilities: {0: 'Blaze'}},
   Clefable: {abilities: {0: 'Cute Charm'}},
   Clefairy: {abilities: {0: 'Cute Charm'}},
-  Cloyster: {abilities: {0: 'Shell Armor', 'Overcoat'}},
+  Cloyster: {abilities: {0: 'Shell Armor'}},
   Cubone: {abilities: {0: 'Rock Head'}},
   Dewgong: {abilities: {0: 'Thick Fat'}},
   Diglett: {abilities: {0: 'Sand Veil'}},
