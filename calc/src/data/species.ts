@@ -112,7 +112,7 @@ const RBY: {[name: string]: SpeciesData} = {
     nfe: true,
   },
   Cloyster: {
-    types: ['Water', 'Ice'],
+    types: ['Water'],
     bs: {hp: 50, at: 95, df: 180, sp: 70, sl: 85},
     weightkg: 132.5,
   },
@@ -1503,7 +1503,7 @@ const ADV_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
   Charmeleon: {abilities: {0: 'Blaze'}},
   Clefable: {abilities: {0: 'Cute Charm'}},
   Clefairy: {abilities: {0: 'Cute Charm'}},
-  Cloyster: {abilities: {0: 'Shell Armor'}},
+  Cloyster: {abilities: {0: 'Shell Armor', 'Overcoat'}},
   Cubone: {abilities: {0: 'Rock Head'}},
   Dewgong: {abilities: {0: 'Thick Fat'}},
   Diglett: {abilities: {0: 'Sand Veil'}},
